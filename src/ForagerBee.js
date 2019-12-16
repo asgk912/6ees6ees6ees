@@ -1,4 +1,4 @@
-class ForagerBee {
+class ForagerBee extends Bee{
 	constructor(){
 		// inherit properties and methods
 		super();
