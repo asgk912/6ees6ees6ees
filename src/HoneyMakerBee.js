@@ -36,10 +36,3 @@ class HoneyMakerBee extends Bee{
 		// new method
 			// a makeHoney method that adds 1 to that honeyBee's honeyPot
 			// a giveHoney method that subtracts 1 from that honeyBee's honeyPot
-
-
-
-
-
-
-

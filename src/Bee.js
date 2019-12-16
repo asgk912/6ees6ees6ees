@@ -2,6 +2,7 @@ class Bee extends Grub{
 	constructor() {
 		// inherit properties and methods
 		super();
+		// assign new values to inherited properties
 		this.age = 5;
 		this.color = 'yellow';
 		this.job = 'Keep on growing'
@@ -24,8 +25,3 @@ class Bee extends Grub{
 		// inherited methods
 			// an eat method that is inherited from grub
 		// new method
-			
-		
-		
-		
-		

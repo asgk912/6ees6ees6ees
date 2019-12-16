@@ -29,4 +29,3 @@ class Grub {
 		// 		super(val1) // inherit all properties and methods
 		//		this.val1 or this val2 // overwrites or add new properties
 		// }
-
