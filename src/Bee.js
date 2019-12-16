@@ -1,10 +1,11 @@
 class Bee extends Grub{
-  // TODO..
-  constructor(){
-  	this.age = 5;
-  	this.color = 'yellow';
-  	this.job = 'Keep on growing'
-  }
+	constructor() {
+		// inherit properties and methods
+		super();
+		this.age = 5;
+		this.color = 'yellow';
+		this.job = 'Keep on growing'
+	}
 };
 
 
